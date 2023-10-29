@@ -1,4 +1,8 @@
 package com.fatec.scel.model;
+
+/*
+ * estabelece a conexao com o db
+ */
 import java.util.List;
 
 import org.springframework.data.jpa.repository.Query;
