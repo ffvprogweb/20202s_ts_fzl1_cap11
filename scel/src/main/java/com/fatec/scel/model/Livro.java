@@ -1,5 +1,7 @@
 package com.fatec.scel.model;
-
+/*
+ * registra as infomações de livro
+ */
 import javax.persistence.*;
 import javax.validation.constraints.*;
 
