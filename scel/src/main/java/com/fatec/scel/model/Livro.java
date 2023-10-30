@@ -1,6 +1,7 @@
 package com.fatec.scel.model;
 /*
  * registra as infomações de livro
+ * as validacoes dos atributos sao realizadas utilizando jpa
  */
 import javax.persistence.*;
 import javax.validation.constraints.*;
